@@ -1,1 +1,1 @@
-# export_cackle.me_chat
+# Парсер комментариев чата из cackle.me
